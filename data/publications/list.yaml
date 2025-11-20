@@ -1,0 +1,122 @@
+works:
+- title: "Imperfect Risk Sharing and the Business Cycle"
+  pdflink: 
+  book: "Quarterly Journal of Economics, Volume 138, Issue 3, August 2023, pp. 1765-1815"
+  note: "A short note displayed under the title"
+  coauthors: "David Berger, Alessandro Dovis"
+  links:
+    - url: "https://www.dropbox.com/scl/fi/0o4lzw3hacgmojawxe3pj/qjad013.pdf?rlkey=dr7099raomd4ss0l3q2yb6f17&dl=1"
+      text: "Paper"
+    - url: "https://www.dropbox.com/s/kifhdx3h3o7n6or/Replication%20package.zip?dl=0"
+      text: "Data and codes"
+  abstract: >
+    This article studies the macroeconomic implications of imperfect risk sharing implied by a class of New Keynesian models with heterogeneous agents. The models in this class can be equivalently represented as a representative-agent economy with wedges. These wedges are functions of households' consumption shares and relative wages, and they identify the key cross-sectional moments that govern the impact of households' heterogeneity on aggregate variables. We measure the wedges using U.S. household-level data and combine them with a representative-agent economy to perform counterfactuals. We find that deviations from perfect risk sharing implied by this class of models account for only 7% of output volatility on average but can have sizable output effects when nominal interest rates reach their lower bound.
+- title: "Risk Sharing Externalities"
+  pdflink: 
+  book: "Journal of Political Economy, Volume 131, Issue 3, March 2023, pp. 595-632"
+  note: "A short note displayed under the title"
+  coauthors: "Guido Lorenzoni"
+  links:
+    - url: "https://www.dropbox.com/scl/fi/d54r5p6c0zesznobld8kk/bocola-lorenzoni-2023-risk-sharing-externalities.pdf?rlkey=izitqv2kpzbkjc3qsf4pksnef&e=1&dl=0"
+      text: "Paper"
+    - url: "https://www.dropbox.com/scl/fi/gl2k323t5psod6jlkcddb/Replication-codes.zip?rlkey=ewx2p9gtiefyr3g2xwlpzdvhc&e=1&dl=0"
+      text: "Codes"
+  abstract: >
+    Financial crises typically occur because firms and financial institutions are highly exposed to aggregate shocks. We propose a theory to explain these exposures. We study a model where entrepreneurs can issue state-contingent claims to consumers. Even though entrepreneurs can use these instruments to hedge negative shocks, they do not necessarily do so because insuring against these shocks is expensive, as consumers are also harmed by them. This effect is self-reinforcing because riskier balance sheets for entrepreneurs imply higher income volatility for the consumers, making insurance more costly in equilibrium. We show that this feedback is quantitatively important and leads to inefficiently high risk exposure for entrepreneurs.
+- title: "Financial Crises, Dollarization and Lending of Last Resort in Open Economies"
+  pdflink: 
+  book: "American Economic Review, 110, August 2020, pp. 2524-2557"
+  note: "A short note displayed under the title"
+  coauthors: "Guido Lorenzoni"
+  links:
+    - url: "https://swap.stanford.edu/was/20220606221548/https:/lbocola.people.stanford.edu/sites/g/files/sbiybj3726/f/dollarization.pdf"
+      text: "Paper"
+    - url: "https://www.aeaweb.org/content/file?id=12666"
+      text: "Online Appendix"
+    - url: "https://www.openicpsr.org/openicpsr/project/117047/version/V1/view"
+      text: "Data and codes"
+  abstract: >
+    Foreign currency debt is considered a source of financial instability in emerging markets. We propose a theory in which liability dollarization arises from an insurance motive of domestic savers. Since financial crises are associated to depreciations, savers ask for a risk premium when saving in local currency. This force makes domestic currency debt expensive, and incentivizes borrowers to issue foreign currency debt. Providing ex post support to borrowers can alleviate the effect of the crisis on savers' income, lowering their demand for insurance, and, surprisingly, it can reduce ex ante incentives to borrow in foreign currency.
+- title: "Exchange Rate Policies at the Zero Lower Bound"
+  pdflink: 
+  book: "Review of Economic Studies, 87, July 2020, 1605-1645"
+  note: "A short note displayed under the title"
+  coauthors: "Manuel Amador, Javier Bianchi, Fabrizio Perri"
+  links:
+    - url: "https://swap.stanford.edu/was/20220606221548/https:/lbocola.people.stanford.edu/sites/g/files/sbiybj3726/f/exchange_policies.pdf"
+      text: "Paper"
+    - url: "http://www.fperri.net/DATA/datafortheweb_abbp_restud.zip"
+      text: "Data and codes"
+  abstract: >
+    We study the problem of a monetary authority pursuing an exchange rate policy that is inconsistent with interest rate parity because of a binding zero lower bound constraint. The resulting violation in interest rate parity generates an inflow of capital that the monetary authority needs to absorb by accumulating foreign reserves. We show that these interventions by the monetary authority are costly, and we derive a simple measure of these costs: they are proportional to deviations from the covered interest parity (CIP) condition and the amount of accumulated foreign reserves. Our framework can account for the recent experiences of “safe-haven” currencies and the sign of their observed deviations from CIP.
+- title: "Self-Fulfilling Debt Crises: A Quantitative Analysis"
+  pdflink: 
+  book: "American Economic Review, 109, December 2019, pp. 4343-4377"
+  note: "A short note displayed under the title"
+  coauthors: "Alessandro Dovis"
+  links:
+    - url: "https://swap.stanford.edu/was/20220606221548/https:/lbocola.people.stanford.edu/sites/g/files/sbiybj3726/f/self_fulfilling.pdf"
+      text: "Paper"
+    - url: "https://swap.stanford.edu/was/20220606221548/https:/lbocola.people.stanford.edu/sites/g/files/sbiybj3726/f/appendix.pdf"
+      text: "Online Appendix"
+    - url: "https://www.dropbox.com/s/2iij5c2b3xwokel/Replication_files_AER_2016_1471.zip?dl=0"
+      text: "Data and codes"
+  abstract: >
+    This paper investigates the role of self-fulfilling expectations in sovereign bond markets. We consider a model of sovereign borrowing featuring endogenous debt maturity, risk-averse lenders, and self-fulfilling crises à la Cole and Kehoe (2000). In this environment, interest rate spreads are driven by both fundamental and nonfundamental risk. These two sources of risk have contrasting implications for the maturity structure of debt chosen by the government. Therefore, they can be indirectly inferred by tracking the evolution of debt maturity. We fit the model to Italian data and find that nonfundamental risk played a limited role during the 2008-2012 crisis.
+- title: "Quantitative Sovereign Default Models and the European Debt Crisis"
+  pdflink: 
+  book: "Journal of International Economics, 118, May 2019, pp 20-30"
+  note: "A short note displayed under the title"
+  coauthors: "Gideon Bornstein, Alessandro Dovis"
+  links:
+    - url: "https://swap.stanford.edu/was/20220606221548/https:/lbocola.people.stanford.edu/sites/g/files/sbiybj3726/f/isom_paper_rev2b.pdf"
+      text: "Paper"
+    - url: "https://swap.stanford.edu/was/20220606221548mp_/https://lbocola.people.stanford.edu/sites/g/files/sbiybj3726/f/replication_files.zip"
+      text: "Data and codes"
+  abstract: >
+    A large literature has developed quantitative versions of the Eaton and Gersovitz (1981) model to analyze default episodes on external debt. In this paper, we study whether the same framework can be applied to the analysis of debt crises in which domestic public debt plays a prominent role. We consider a model where a government can issue debt to both domestic and foreign investors, and we derive conditions under which their sum is the relevant state variable for default incentives. We then apply our framework to the European debt crisis. We show that matching the cyclicality of public debt—rather than that of external debt—allows the model to better capture the empirical distribution of interest rate spreads and gives rise to more realistic crises dynamics.
+- title: "Assessing DSGE Model Nonlinearities"
+  pdflink: 
+  book: "Journal of Economic Dynamics and Control, 83, October 2017, pp 34-54"
+  note: "A short note displayed under the title"
+  coauthors: "Boragan Aruoba, Frank Schorfheide"
+  links:
+    - url: "https://swap.stanford.edu/was/20220606221548/https:/lbocola.people.stanford.edu/sites/g/files/sbiybj3726/f/dsge_nonlinear.pdf"
+      text: "Paper"
+    - url: "https://www.dropbox.com/s/j9cr6pn0kvmsnt0/Replication%20codes.zip?dl=0"
+      text: "Data and codes"
+  abstract: >
+    We develop a new class of time series models to identify nonlinearities in the data and to evaluate DSGE models. U.S. output growth and the federal funds rate display nonlinear conditional mean dynamics, while inflation and nominal wage growth feature conditional heteroskedasticity. We estimate a DSGE model with asymmetric wage and price adjustment costs and use predictive checks to assess its ability to account for these nonlinearities. While it is able to match the nonlinear inflation and wage dynamics, thanks to the estimated downward wage and price rigidities, these do not spill over to output growth or the interest rate.
+- title: "Reverse Speculative Attacks"
+  pdflink: 
+  book: "Journal of Economic Dynamics and Control, 83, November 2016, pp 125-137"
+  note: "A short note displayed under the title"
+  coauthors: "Manuel Amador, Javier Bianchi, Fabrizio Perri"
+  links:
+    - url: "https://swap.stanford.edu/was/20220606221548/https:/lbocola.people.stanford.edu/sites/g/files/sbiybj3726/f/reverse_speculative.pdf"
+      text: "Paper"
+    - url: "https://github.com/manuelamador/Reverse_Speculative_Attacks_JEDC_2016"
+      text: "Data and codes"
+  abstract: >
+    In January 2015, in the face of sustained capital in ows, the Swiss National Bank abandoned the floor for the Swiss Franc against the Euro, a decision which led to the appreciation of the Swiss Franc. The objective of this paper is to present a simple numerical framework that helps to better understand the timing of this episode, which we label a “reverse speculative attack”. We model a central bank which wishes to maintain a peg, and responds to increases in demand for domestic currency by expanding its balance sheet. In contrast to the classic speculative attacks, which are triggered by the depletion of foreign assets, reverse attacks are triggered by the concern of future balance sheet losses. Our key result is that the interaction between the desire to maintain the peg and the concern about future losses, can lead the central bank to first accumulate a large amount of reserves, and then to abandon the peg, just as we have observed in the Swiss case.
+- title: "The Pass-Through of Sovereign Risk"
+  pdflink: 
+  book: "Journal of Political Economy, 124, August 2016, pp 879-926"
+  note: "A short note displayed under the title"
+  links:
+    - url: "https://swap.stanford.edu/was/20220606221548/https:/lbocola.people.stanford.edu/sites/g/files/sbiybj3726/f/sovereign_passthrough.pdf"
+      text: "Paper"
+    - url: "https://swap.stanford.edu/was/20220606221548/https:/lbocola.people.stanford.edu/sites/g/files/sbiybj3726/f/passthrough_appendix.pdf"
+      text: "Online Appendix"
+    - url: "https://www.dropbox.com/scl/fi/kkajfrb0qaa483r8vni7j/2014282data.zip?rlkey=o7k411kxrvlgg37whiktvymjs&e=1&dl=0"
+      text: "Data and codes"
+    - url: "https://www.minneapolisfed.org/~/media/files/pubs/region/15-09/region-sept2015-risky-business.pdf"
+      text: "The Region"
+  abstract: >
+    This paper examines the macroeconomic implications of sovereign risk in a model in which banks hold domestic government debt. News of a future sovereign default hampers financial intermediation. First, it tightens the funding constraints of banks, reducing their resources to finance firms (liquidity channel). Second, it generates a precautionary motive to deleverage (risk channel). I estimate the model using Italian data, finding that sovereign risk was recessionary and that the risk channel was sizable. I also use the model to measure the effects of subsidized long-term loans to banks. Precautionary motives at the height of the crisis imply that bank lending to firms responds little to these interventions.
+- title: "Trade and Business-Cycle Comovement: Evidence from the EU"
+  pdflink: "https://www.repository.unipr.it/bitstream/1889/890/1/trade%20and%20cycles.pdf"
+  book: "Rivista di Politica Economica, November-December 2006"
+  note: "A short note displayed under the title"
+  abstract: >
+    This paper studies empirically the determinants of business cycle co- movement using a panel of European countries (1972-2004). We find that both policy convergence (in particular fiscal policy) and bilateral trade intensity are robust determinants of real co-movement in Europe, this confirming the seminal study by Frankel and Rose (1998), and more recent finding by Bergman (2004) and Darvas, Rose and Svapary (2005). Moreover ,once controlling for policy convergence, the effect of bilateral trade on business cycle co-movement weakens by a factor of 36%-33%. This finding is interpreted as being evidence in favour of the recent claim by Gruben, Koo and Millis (2002) that Frankel and Rose econometric procedure suffers from omitted variables bias and endogeneity in the set of instruments.

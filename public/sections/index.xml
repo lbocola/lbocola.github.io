@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sections on Luigi Bocola</title>
+    <link>//localhost:1313/sections/</link>
+    <description>Recent content in Sections on Luigi Bocola</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/sections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>//localhost:1313/sections/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/sections/aboutme/</guid>
+      <description>&lt;p&gt;I am Luigi Bocola.&#xA;-&lt;a href=&#34;https://www.dropbox.com/scl/fi/xzug16vockh09of5geflr/CV.pdf?rlkey=r6wt03cgu2afkphl1e43jbhe8&amp;amp;e=1&amp;amp;dl=0&#34;&gt;Curriculum Vitae&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/sections/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/sections/contact/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;lbocola@stanford.edu&#34;&gt;lbocola@stanford.edu&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Phone&lt;/strong&gt;: +1 (650) 7239-165&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Office&lt;/strong&gt;:  xxx&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/sections/nonacademic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/sections/nonacademic/</guid>
+      <description>&lt;p&gt;Non-academic publications go here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/sections/office-hours/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/sections/office-hours/</guid>
+      <description>&lt;p&gt;Office hours go here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/sections/personal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/sections/personal/</guid>
+      <description>&lt;p&gt;Personal affairs go here.&#xA;&lt;strong&gt;Website&lt;/strong&gt;: I have used the webpage template of &lt;a href=&#34;https://github.com/gautamrao/gautamrao.github.io&#34;&gt;Gautam Rao&lt;/a&gt;, who in turn was inspired by &lt;a href=&#34;https://xinyue-lin.com/&#34;&gt;Xinyue Lin&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

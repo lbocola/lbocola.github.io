@@ -1,0 +1,11 @@
+relativeURLs = true
+title = "Luigi Bocola"
+theme = "academimal"
+sectionPagesMenu = "main"
+defaultContentLanguage = "en"
+ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
+
+[params]
+    shortbio = "I am an Associate Professor at the Stanford Economics Department. I am also a Senior Research Associate at the NBER and a Senior Fellow at SIEPR. My research focuses on macroeconomics, international finance and financial economics." 
+       logo = "luigiheadshot.jpg" 
+    
