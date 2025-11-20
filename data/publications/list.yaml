@@ -2,7 +2,6 @@ works:
 - title: "Imperfect Risk Sharing and the Business Cycle"
   pdflink: 
   book: "Quarterly Journal of Economics, Volume 138, Issue 3, August 2023, pp. 1765-1815"
-  note: "A short note displayed under the title"
   coauthors: "David Berger, Alessandro Dovis"
   links:
     - url: "pdf/CV_alexanderhansen.pdf"
@@ -14,7 +13,6 @@ works:
 - title: "Risk Sharing Externalities"
   pdflink: 
   book: "Journal of Political Economy, Volume 131, Issue 3, March 2023, pp. 595-632"
-  note: "A short note displayed under the title"
   coauthors: "Guido Lorenzoni"
   links:
     - url: "https://www.dropbox.com/scl/fi/d54r5p6c0zesznobld8kk/bocola-lorenzoni-2023-risk-sharing-externalities.pdf?rlkey=izitqv2kpzbkjc3qsf4pksnef&e=1&dl=0"
@@ -26,7 +24,6 @@ works:
 - title: "Financial Crises, Dollarization and Lending of Last Resort in Open Economies"
   pdflink: 
   book: "American Economic Review, 110, August 2020, pp. 2524-2557"
-  note: "A short note displayed under the title"
   coauthors: "Guido Lorenzoni"
   links:
     - url: "https://swap.stanford.edu/was/20220606221548/https:/lbocola.people.stanford.edu/sites/g/files/sbiybj3726/f/dollarization.pdf"
@@ -40,7 +37,6 @@ works:
 - title: "Exchange Rate Policies at the Zero Lower Bound"
   pdflink: 
   book: "Review of Economic Studies, 87, July 2020, 1605-1645"
-  note: "A short note displayed under the title"
   coauthors: "Manuel Amador, Javier Bianchi, Fabrizio Perri"
   links:
     - url: "https://swap.stanford.edu/was/20220606221548/https:/lbocola.people.stanford.edu/sites/g/files/sbiybj3726/f/exchange_policies.pdf"
@@ -52,7 +48,6 @@ works:
 - title: "Self-Fulfilling Debt Crises: A Quantitative Analysis"
   pdflink: 
   book: "American Economic Review, 109, December 2019, pp. 4343-4377"
-  note: "A short note displayed under the title"
   coauthors: "Alessandro Dovis"
   links:
     - url: "https://swap.stanford.edu/was/20220606221548/https:/lbocola.people.stanford.edu/sites/g/files/sbiybj3726/f/self_fulfilling.pdf"
@@ -66,7 +61,6 @@ works:
 - title: "Quantitative Sovereign Default Models and the European Debt Crisis"
   pdflink: 
   book: "Journal of International Economics, 118, May 2019, pp 20-30"
-  note: "A short note displayed under the title"
   coauthors: "Gideon Bornstein, Alessandro Dovis"
   links:
     - url: "https://swap.stanford.edu/was/20220606221548/https:/lbocola.people.stanford.edu/sites/g/files/sbiybj3726/f/isom_paper_rev2b.pdf"
@@ -78,7 +72,6 @@ works:
 - title: "Assessing DSGE Model Nonlinearities"
   pdflink: 
   book: "Journal of Economic Dynamics and Control, 83, October 2017, pp 34-54"
-  note: "A short note displayed under the title"
   coauthors: "Boragan Aruoba, Frank Schorfheide"
   links:
     - url: "https://swap.stanford.edu/was/20220606221548/https:/lbocola.people.stanford.edu/sites/g/files/sbiybj3726/f/dsge_nonlinear.pdf"
@@ -90,7 +83,6 @@ works:
 - title: "Reverse Speculative Attacks"
   pdflink: 
   book: "Journal of Economic Dynamics and Control, 83, November 2016, pp 125-137"
-  note: "A short note displayed under the title"
   coauthors: "Manuel Amador, Javier Bianchi, Fabrizio Perri"
   links:
     - url: "https://swap.stanford.edu/was/20220606221548/https:/lbocola.people.stanford.edu/sites/g/files/sbiybj3726/f/reverse_speculative.pdf"
@@ -102,7 +94,6 @@ works:
 - title: "The Pass-Through of Sovereign Risk"
   pdflink: 
   book: "Journal of Political Economy, 124, August 2016, pp 879-926"
-  note: "A short note displayed under the title"
   links:
     - url: "https://swap.stanford.edu/was/20220606221548/https:/lbocola.people.stanford.edu/sites/g/files/sbiybj3726/f/sovereign_passthrough.pdf"
       text: "Paper"
@@ -117,6 +108,5 @@ works:
 - title: "Trade and Business-Cycle Comovement: Evidence from the EU"
   pdflink: "https://www.repository.unipr.it/bitstream/1889/890/1/trade%20and%20cycles.pdf"
   book: "Rivista di Politica Economica, November-December 2006"
-  note: "A short note displayed under the title"
   abstract: >
     This paper studies empirically the determinants of business cycle co- movement using a panel of European countries (1972-2004). We find that both policy convergence (in particular fiscal policy) and bilateral trade intensity are robust determinants of real co-movement in Europe, this confirming the seminal study by Frankel and Rose (1998), and more recent finding by Bergman (2004) and Darvas, Rose and Svapary (2005). Moreover ,once controlling for policy convergence, the effect of bilateral trade on business cycle co-movement weakens by a factor of 36%-33%. This finding is interpreted as being evidence in favour of the recent claim by Gruben, Koo and Millis (2002) that Frankel and Rose econometric procedure suffers from omitted variables bias and endogeneity in the set of instruments.
