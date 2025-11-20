@@ -5,7 +5,7 @@ works:
   note: "A short note displayed under the title"
   coauthors: "David Berger, Alessandro Dovis"
   links:
-    - url: "https://www.dropbox.com/scl/fi/0o4lzw3hacgmojawxe3pj/qjad013.pdf?rlkey=dr7099raomd4ss0l3q2yb6f17&dl=1"
+    - url: "pdf/CV_alexanderhansen.pdf"
       text: "Paper"
     - url: "https://www.dropbox.com/s/kifhdx3h3o7n6or/Replication%20package.zip?dl=0"
       text: "Data and codes"
