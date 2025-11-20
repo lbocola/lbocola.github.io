@@ -106,7 +106,10 @@ works:
   abstract: >
     This paper examines the macroeconomic implications of sovereign risk in a model in which banks hold domestic government debt. News of a future sovereign default hampers financial intermediation. First, it tightens the funding constraints of banks, reducing their resources to finance firms (liquidity channel). Second, it generates a precautionary motive to deleverage (risk channel). I estimate the model using Italian data, finding that sovereign risk was recessionary and that the risk channel was sizable. I also use the model to measure the effects of subsidized long-term loans to banks. Precautionary motives at the height of the crisis imply that bank lending to firms responds little to these interventions.
 - title: "Trade and Business-Cycle Comovement: Evidence from the EU"
-  pdflink: "https://www.repository.unipr.it/bitstream/1889/890/1/trade%20and%20cycles.pdf"
+  pdflink: 
   book: "Rivista di Politica Economica, November-December 2006"
+  links:
+    - url: "https://www.repository.unipr.it/bitstream/1889/890/1/trade%20and%20cycles.pdf"
+      text: "Paper"
   abstract: >
     This paper studies empirically the determinants of business cycle co- movement using a panel of European countries (1972-2004). We find that both policy convergence (in particular fiscal policy) and bilateral trade intensity are robust determinants of real co-movement in Europe, this confirming the seminal study by Frankel and Rose (1998), and more recent finding by Bergman (2004) and Darvas, Rose and Svapary (2005). Moreover ,once controlling for policy convergence, the effect of bilateral trade on business cycle co-movement weakens by a factor of 36%-33%. This finding is interpreted as being evidence in favour of the recent claim by Gruben, Koo and Millis (2002) that Frankel and Rose econometric procedure suffers from omitted variables bias and endogeneity in the set of instruments.
