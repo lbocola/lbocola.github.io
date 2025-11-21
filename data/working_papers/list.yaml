@@ -5,8 +5,7 @@ works:
     - url: "https://www.dropbox.com/scl/fi/7104uxinebfa8qcz66psy/mp_anchor_v5.pdf?rlkey=utjvv1jstotqaq73ek1e1w8be&e=1&dl=0"
       text: "Paper"
   abstract: >
-    Policymakers often cite the risk that inflation expectations might "de-anchor" as a key reason for responding forcefully to inflationary shocks. We develop a model to
-analyze this trade-off and to quantify the benefits of stable long-run inflation expectations. In our framework, households and firms are imperfectly informed about the central bank's objective and learn from its policy choices. Recognizing this interaction, the central bank raises interest rates more aggressively after adverse supply shocks and accepts short-run output costs to secure more stable inflation expectations. The strength of this reputation channel depends on how sensitive long-run inflation expectations are to surprises in interest rates. Using high-frequency identification, we estimate these elasticities for emerging and advanced economies and find large negative values for Brazil. We fit our model to these findings and use it to quantify how reputation building motives affect monetary policy decisions, and the role of central bank’s credibility in promoting macroeconomic stability.
+    Policymakers. 
 - title: "Bond Market Views of the Fed"
   coauthors: "Alessandro Davis, Kasper Jørgensen, Rishabh Kirpalani"
   notes: "R&R at the Journal of Political Economy"
