@@ -1,0 +1,37 @@
+works:
+- title: "Monetary Policy without an Anchor"
+  coauthors: "Alessandro Davis, Kasper Jørgensen, Rishabh Kirpalani"
+  links: 
+    - url: "https://www.dropbox.com/scl/fi/7104uxinebfa8qcz66psy/mp_anchor_v5.pdf?rlkey=utjvv1jstotqaq73ek1e1w8be&e=1&dl=0"
+      text: "Paper"
+  abstract: >
+    Policymakers often cite the risk that inflation expectations might “de-anchor” as a key reason for responding forcefully to inflationary shocks. We develop a model to
+analyze this trade-off and to quantify the benefits of stable long-run inflation expectations. In our framework, households and firms are imperfectly informed about the central bank’s objective and learn from its policy choices. Recognizing this interaction, the central bank raises interest rates more aggressively after adverse supply shocks and accepts short-run output costs to secure more stable inflation expectations. The strength of this reputation channel depends on how sensitive long-run inflation expectations are to surprises in interest rates. Using high-frequency identification, we estimate these elasticities for emerging and advanced economies and find large negative values for Brazil. We fit our model to these findings and use it to quantify how reputation building motives affect monetary policy decisions, and the role of central bank’s credibility in promoting macroeconomic stability.
+- title: "Bond Market Views of the Fed"
+  coauthors: "Alessandro Davis, Kasper Jørgensen, Rishabh Kirpalani"
+  notes: "R&R at the Journal of Political Economy"
+  links:
+    - url: "https://www.dropbox.com/scl/fi/g4webwws6xj5pmxn3xcxh/bond_views.pdf?rlkey=2e9f7dux4buqtyzzulsepbwrg&e=1&dl=0"
+      text: "Paper"  
+  abstract: > 
+    This paper uses high frequency data to detect shifts in financial markets’ perception of the Federal Reserve stance on inflation. We construct daily revisions to expectations of future nominal interest rates and inflation that are priced into nominal and inflation-protected bonds, and find that the relation between these two variables positive and stable for over twenty years—has weakened substantially over the 2020-2022 period. In the context of canonical monetary reaction functions considered in the literature, these results are indicative of a monetary authority that places less weight on inflation stabilization. We augment a standard New Keynesian model with regime shifts in the monetary policy rule, calibrate it to match our findings, and use it as a laboratory to understand the drivers of U.S. inflation post 2020. We find that the shift in the monetary policy stance accounts for half of the observed increase in inflation.
+- title: "The Macroeconomics of Trade Credit"
+  coauthors: "Gideon Bornstein"
+  notes: "R&R at the American Economic Review"
+  links:
+    - url: "https://www.dropbox.com/scl/fi/m90buhpgfjbsptqfmk1ia/trade_credit_draft.pdf?rlkey=9jiqxdr74lmtc9xeeimdeas7j&e=1&dl=0"
+      text: "Paper"
+    - url: "https://www.dropbox.com/scl/fi/34dcs545ojyn9nnnpf308/payments_nopause.pdf?rlkey=5z3k1w9ycdakxnbnh6g6r9rqt&e=1&dl=0"
+      text: "Slides"
+  abstract: > 
+    In most countries, suppliers of intermediate goods and services are also the main providers of short-term financing to firms. This paper studies the macroeconomic implications of these financial links. In our model, trade credit is the outcome of a long-term contract between firms linked in the production process, and it is sustained in equilibrium by reputation forces as customers lose the relationship with their suppliers in case of a default. These financial links give rise to a credit multiplier: suppliers can enforce repayment of these IOUs, and they can discount these bills with banks to obtain liquidity. This process can either dampen or amplify the output effects of financial shocks, depending on the borrowing capacity of suppliers. Using Italian data, we find that the credit multiplier is sizable and show that trade credit substantially amplified the output costs of the Great Recession.
+- title: "Sovereign Default Risk and Firm Heterogeneity"
+  coauthors: "Cristina Arellano, Yan Bai"
+  notes: "Conditionally accepted at JEEA"
+  links:
+    - url: "https://www.dropbox.com/scl/fi/9g4v232ewdxa6wkl3y35g/sovereign_heterogeneity.pdf?rlkey=f42loq8uyr5i1ig6hk6fi6w75&e=1&dl=0"
+      text: "Paper"
+    - url: "https://swap.stanford.edu/was/20220606221548/https:/lbocola.people.stanford.edu/sites/g/files/sbiybj3726/f/abb_slides.pdf"
+      text: "Slides"
+  abstract: > 
+    This paper measures the output costs of sovereign risk by combining a sovereign debt model with firm- and bank-level data. An increase in sovereign risk lowers the price of government debt and has an adverse impact on banks’ balance sheets, disrupting their ability to finance firms. The resulting fall in credit supply impacts firms directly, as they need to borrow at higher interest rates, and indirectly through general equilibrium effects on the price of inputs and other goods. Importantly, firms are not equally affected by these developments: those that have greater financing needs and that borrow from banks that hold more government debt are mostly affected by the change in borrowing rates, while firms that do not borrow are only impacted indirectly. We show that these direct and indirect effects can be recovered using a firm-level regression, which we estimate using Italian data. We calibrate our model to match the measured firm-level elasticities and find that heightened sovereign risk was responsible for one-third of the observed output decline during the Italian debt crisis.
