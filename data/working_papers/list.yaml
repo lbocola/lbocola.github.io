@@ -13,8 +13,6 @@ analyze this trade-off and to quantify the benefits of stable long-run inflation
   links:
     - url: "https://www.dropbox.com/scl/fi/g4webwws6xj5pmxn3xcxh/bond_views.pdf?rlkey=2e9f7dux4buqtyzzulsepbwrg&e=1&dl=0"
       text: "Paper"  
-  abstract: > 
-    This paper uses high frequency data to detect shifts in financial markets’ perception of the Federal Reserve stance on inflation. We construct daily revisions to expectations of future nominal interest rates and inflation that are priced into nominal and inflation-protected bonds, and find that the relation between these two variables positive and stable for over twenty years—has weakened substantially over the 2020-2022 period. In the context of canonical monetary reaction functions considered in the literature, these results are indicative of a monetary authority that places less weight on inflation stabilization. We augment a standard New Keynesian model with regime shifts in the monetary policy rule, calibrate it to match our findings, and use it as a laboratory to understand the drivers of U.S. inflation post 2020. We find that the shift in the monetary policy stance accounts for half of the observed increase in inflation.
 - title: "The Macroeconomics of Trade Credit"
   coauthors: "Gideon Bornstein"
   notes: "R&R at the American Economic Review"
