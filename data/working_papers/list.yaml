@@ -4,12 +4,18 @@ works:
   links: 
     - url: "https://www.dropbox.com/scl/fi/7104uxinebfa8qcz66psy/mp_anchor_v5.pdf?rlkey=utjvv1jstotqaq73ek1e1w8be&e=1&dl=0"
       text: "Paper"
+   abstract: >
+    This article studies the macroeconomic implications of imperfect risk sharing implied by a class of New Keynesian models with heterogeneous agents. The models in this class can be equivalently represented as a representative-agent economy with wedges. These wedges are functions of households' consumption shares and relative wages, and they identify the key cross-sectional moments that govern the impact of households' heterogeneity on aggregate variables. We measure the wedges using U.S. household-level data and combine them with a representative-agent economy to perform counterfactuals. We find that deviations from perfect risk sharing implied by this class of models account for only 7% of output volatility on average but can have sizable output effects when nominal interest rates reach their lower bound.
+
 - title: "Bond Market Views of the Fed"
   coauthors: "Alessandro Davis, Kasper Jørgensen, Rishabh Kirpalani"
   notes: "R&R at the Journal of Political Economy"
   links:
     - url: "https://www.dropbox.com/scl/fi/g4webwws6xj5pmxn3xcxh/bond_views.pdf?rlkey=2e9f7dux4buqtyzzulsepbwrg&e=1&dl=0"
       text: "Paper"
+  abstract: >
+    This article studies the macroeconomic implications of imperfect risk sharing implied by a class of New Keynesian models with heterogeneous agents. The models in this class can be equivalently represented as a representative-agent economy with wedges. These wedges are functions of households' consumption shares and relative wages, and they identify the key cross-sectional moments that govern the impact of households' heterogeneity on aggregate variables. We measure the wedges using U.S. household-level data and combine them with a representative-agent economy to perform counterfactuals. We find that deviations from perfect risk sharing implied by this class of models account for only 7% of output volatility on average but can have sizable output effects when nominal interest rates reach their lower bound.
+
 - title: "The Macroeconomics of Trade Credit"
   coauthors: "Gideon Bornstein"
   notes: "R&R at the American Economic Review"
@@ -19,7 +25,7 @@ works:
     - url: "https://www.dropbox.com/scl/fi/34dcs545ojyn9nnnpf308/payments_nopause.pdf?rlkey=5z3k1w9ycdakxnbnh6g6r9rqt&e=1&dl=0"
       text: "Slides"
 - title: "Sovereign Default Risk and Firm Heterogeneity"
-  coauthors: "Christina Arellano, Yan Bai"
+  coauthors: "Cristina Arellano, Yan Bai"
   notes: "Conditionally accepted at JEEA"
   links:
     - url: "https://www.dropbox.com/scl/fi/9g4v232ewdxa6wkl3y35g/sovereign_heterogeneity.pdf?rlkey=f42loq8uyr5i1ig6hk6fi6w75&e=1&dl=0"
