@@ -1,8 +1,6 @@
-__Email__: [lbocola@stanford.edu](lbocola@stanford.edu)  
+**Email**: [lbocola@stanford.edu](lbocola@stanford.edu)
 
-__Phone__: +1 (650) 7239-165
+**Phone**: +1 (650) 7239-165
 
-__Office__:  xxx
-
-
+**Office**: 342 Landau Building, 579 Jane Stanford Way, Stanford, 94305
 
