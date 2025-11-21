@@ -24,7 +24,8 @@ central bank’s objective and learn from its policy choices. Recognizing this i
       text: "Paper"
     - url: "https://www.dropbox.com/scl/fi/34dcs545ojyn9nnnpf308/payments_nopause.pdf?rlkey=5z3k1w9ycdakxnbnh6g6r9rqt&e=1&dl=0"
       text: "Slides"
-  abstract: > In most countries, suppliers of intermediate goods and services are also the main providers of short-term financing to firms. This paper studies the macroeconomic implications of these financial links. In our model, trade credit is the outcome of a long-term contract between firms linked in the production process, and it is sustained in equilib- rium by reputation forces as customers lose the relationship with their suppliers in case of a default. These financial links give rise to a
+  abstract: > 
+   In most countries, suppliers of intermediate goods and services are also the main providers of short-term financing to firms. This paper studies the macroeconomic implications of these financial links. In our model, trade credit is the outcome of a long-term contract between firms linked in the production process, and it is sustained in equilib- rium by reputation forces as customers lose the relationship with their suppliers in case of a default. These financial links give rise to a
 credit multiplier: suppliers can enforce repayment of these IOUs, and they can discount these bills with banks to obtain liquidity. This process can either dampen or amplify the output effects of financial shocks, depending on the borrowing capacity of suppliers. Using Italian data, we find that the credit multiplier is sizable and show that trade credit substantially amplified the output costs of the Great Recession.
 - title: "Sovereign Default Risk and Firm Heterogeneity"
   coauthors: "Cristina Arellano, Yan Bai"
