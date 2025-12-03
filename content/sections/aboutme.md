@@ -2,7 +2,7 @@ Welcome to my website! I am an Associate Professor in the Stanford Economics dep
 
 
 
-My research combines economic theory and empirical methods to address macroeconomic questions. Among other topics, I have studied the role of credibility in monetary policy, the macroeconomic consequences of sovereign debt crises, the origins of financial dollarization in emerging markets, and the macroeconomic effects of financial shocks.
+My research combines economic theory and empirical methods to address macroeconomic questions. Among other topics, I have studied the role of credibility for monetary policy, the macroeconomic consequences of sovereign debt crises, the origins of financial dollarization in emerging markets, and the macroeconomic effects of financial shocks.
 
 
 
