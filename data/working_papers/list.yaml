@@ -18,6 +18,8 @@ works:
   links:
     - url: "https://www.dropbox.com/scl/fi/m90buhpgfjbsptqfmk1ia/trade_credit_draft.pdf?rlkey=9jiqxdr74lmtc9xeeimdeas7j&e=1&dl=0"
       text: "Paper"
+  abstract: > 
+    This paper uses high frequency data to detect shifts in financial markets’ perception of the Federal Reserve stance on inflation. We construct daily revisions to expectations of future nominal interest rates and inflation that are priced into nominal and inflation-protected bonds, and find that the relation between these two variables---positive and stable for over twenty years---has weakened substantially over the 2020-2022 period. In the context of canonical monetary reaction functions considered in the literature, these results are indicative of a monetary authority that places less weight on inflation stabilization. We augment a standard New Keynesian model with regime shifts in the monetary policy rule, calibrate it to match our findings, and use it as a laboratory to understand the drivers of U.S. inflation post 2020. We find that the shift in the monetary policy stance accounts for half of the observed increase in inflation.
     - url: "https://www.dropbox.com/scl/fi/34dcs545ojyn9nnnpf308/payments_nopause.pdf?rlkey=5z3k1w9ycdakxnbnh6g6r9rqt&e=1&dl=0"
       text: "Slides"
 - title: "Sovereign Default Risk and Firm Heterogeneity"
