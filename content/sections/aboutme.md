@@ -2,11 +2,11 @@ Welcome to my website! I am an Associate Professor in the Stanford Economics dep
 
 
 
-My research levers economic theory and empirical methods to address macroeconomic questions. Among other topics, I have studied the role of credibility in monetary policy, the macroeconomic consequences of sovereign debt crises, the origins of financial dollarization in emerging markets, and the macroeconomic effects of financial shocks.
+My research combines economic theory and empirical methods to address macroeconomic questions. Among other topics, I have studied the role of credibility in monetary policy, the macroeconomic consequences of sovereign debt crises, the origins of financial dollarization in emerging markets, and the macroeconomic effects of financial shocks.
 
 
 
-I am a faculty research fellow at the National Bureau of Economic Analysis (NBER), where I co-organize the Summer Institute Workshop on Methods and Applications for Dynamic Equilibrium Models. I am also a research fellow at the Center of Economic Policy Analysis, and a senior fellow at the Stanford Institute of Economic Policy Research.  
+I am a faculty research fellow at the National Bureau of Economic Analysis (NBER), where I co-organize the Summer Institute Workshop on Methods and Applications for Dynamic Equilibrium Models. I am also a research fellow at the Center of Economic Policy Research (CEPR), and a senior fellow at the Stanford Institute of Economic Policy Research (SIEPR).  
 
 
 
