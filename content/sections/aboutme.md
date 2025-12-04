@@ -6,7 +6,7 @@ My research combines economic theory and empirical methods to address macroecono
 
 
 
-I am a faculty research fellow at the National Bureau of Economic Analysis (NBER), where I co-organize the Summer Institute Workshop on Methods and Applications for Dynamic Equilibrium Models. I am also a research fellow at the Center for Economic Policy Research (CEPR), and a senior fellow at the Stanford Institute of Economic Policy Research (SIEPR).
+I am a faculty research associate at the National Bureau of Economic Analysis (NBER), where I co-organize the Summer Institute Workshop on Methods and Applications for Dynamic Equilibrium Models. I am also a research fellow at the Center for Economic Policy Research (CEPR), and a senior fellow at the Stanford Institute of Economic Policy Research (SIEPR).
 
 
 
