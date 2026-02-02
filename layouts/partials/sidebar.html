@@ -2,11 +2,11 @@
 {{ with .GetPage "/sections/contact.md" }}
 <p class="contactinfo"><a href="{{ "#contact" | relURL }}">Contact</a></p>
 {{ end }}
-{{ with .Site.Data.publications }}
-<p class="contactinfo"><a href="{{ "#publications" | relURL }}">Publications</a></p>
-{{ end }}
 {{ with .Site.Data.working_papers }}
 <p class="contactinfo"><a href="{{ "#workingpapers" | relURL }}">Working Papers</a></p>
+{{ end }}
+{{ with .Site.Data.publications }}
+<p class="contactinfo"><a href="{{ "#publications" | relURL }}">Publications</a></p>
 {{ end }}
 {{ with .Site.Data.teaching }}
 <p class="contactinfo"><a href="{{ "#teaching" | relURL }}">Teaching</a></p>
