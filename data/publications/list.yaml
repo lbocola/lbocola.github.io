@@ -28,7 +28,7 @@ works:
   links:
     - url: "https://swap.stanford.edu/was/20220606221548/https:/lbocola.people.stanford.edu/sites/g/files/sbiybj3726/f/dollarization.pdf"
       text: "Paper"
-    - url: "https://www.aeaweb.org/content/file?id=12666"
+    - url: "pdf/dollarization.pdf"
       text: "Online Appendix"
     - url: "https://www.openicpsr.org/openicpsr/project/117047/version/V1/view"
       text: "Data and codes"
@@ -39,7 +39,7 @@ works:
   book: "Review of Economic Studies, 87, July 2020, 1605-1645"
   coauthors: "Manuel Amador, Javier Bianchi, Fabrizio Perri"
   links:
-    - url: "https://swap.stanford.edu/was/20220606221548/https:/lbocola.people.stanford.edu/sites/g/files/sbiybj3726/f/exchange_policies.pdf"
+    - url: "pdf/exchangerates_zlb.pdf"
       text: "Paper"
     - url: "http://www.fperri.net/DATA/datafortheweb_abbp_restud.zip"
       text: "Data and codes"
@@ -50,9 +50,9 @@ works:
   book: "American Economic Review, 109, December 2019, pp. 4343-4377"
   coauthors: "Alessandro Dovis"
   links:
-    - url: "https://swap.stanford.edu/was/20220606221548/https:/lbocola.people.stanford.edu/sites/g/files/sbiybj3726/f/self_fulfilling.pdf"
+    - url: "pdf/ck_quantitative.pdf"
       text: "Paper"
-    - url: "https://swap.stanford.edu/was/20220606221548/https:/lbocola.people.stanford.edu/sites/g/files/sbiybj3726/f/appendix.pdf"
+    - url: "https://www.dropbox.com/scl/fi/dlkn2ckrql4cn58fo6nh3/Appendix.pdf?rlkey=w8zuxx37g6ukh1pj83t0ed1mb&dl=0"
       text: "Online Appendix"
     - url: "https://www.dropbox.com/s/2iij5c2b3xwokel/Replication_files_AER_2016_1471.zip?dl=0"
       text: "Data and codes"
