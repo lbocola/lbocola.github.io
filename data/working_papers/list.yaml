@@ -7,6 +7,8 @@ works:
       text: "Paper"
     - url: "https://www.dropbox.com/scl/fi/nhkqozpmfgnqls4kxivmo/slides_deanchor.pdf?rlkey=o1s2c34iqq5yttqap3gnaf243&dl=0"
       text: "Slides"
+  abstract: >
+    This article studies the macroeconomic implications of imperfect risk sharing implied by a class of New Keynesian models with heterogeneous agents. The models in this class can be equivalently represented as a representative-agent economy with wedges. These wedges are functions of households' consumption shares and relative wages, and they identify the key cross-sectional moments that govern the impact of households' heterogeneity on aggregate variables. We measure the wedges using U.S. household-level data and combine them with a representative-agent economy to perform counterfactuals. We find that deviations from perfect risk sharing implied by this class of models account for only 7% of output volatility on average but can have sizable output effects when nominal interest rates reach their lower bound.
 - title: "Bond Market Views of the Fed"
   coauthors: "Alessandro Davis, Kasper Jørgensen, Rishabh Kirpalani"
   book: "Revise and Resubmit at the Journal of Political Economy"
@@ -15,6 +17,8 @@ works:
       text: "Paper"
     - url: "https://www.dropbox.com/scl/fi/34dcs545ojyn9nnnpf308/payments_nopause.pdf?rlkey=5z3k1w9ycdakxnbnh6g6r9rqt&e=1&dl=0"
       text: "Slides"
+  abstract: >
+    This article studies the macroeconomic implications of imperfect risk sharing implied by a class of New Keynesian models with heterogeneous agents. The models in this class can be equivalently represented as a representative-agent economy with wedges. These wedges are functions of households' consumption shares and relative wages, and they identify the key cross-sectional moments that govern the impact of households' heterogeneity on aggregate variables. We measure the wedges using U.S. household-level data and combine them with a representative-agent economy to perform counterfactuals. We find that deviations from perfect risk sharing implied by this class of models account for only 7% of output volatility on average but can have sizable output effects when nominal interest rates reach their lower bound.
 - title: "The Macroeconomics of Trade Credit"
   coauthors: "Gideon Bornstein"
   book: "Revise and Resubmit at the American Economic Review"
@@ -23,6 +27,8 @@ works:
       text: "Paper"
     - url: "https://www.dropbox.com/scl/fi/34dcs545ojyn9nnnpf308/payments_nopause.pdf?rlkey=5z3k1w9ycdakxnbnh6g6r9rqt&e=1&dl=0"
       text: "Slides"
+  abstract: >
+    This article studies the macroeconomic implications of imperfect risk sharing implied by a class of New Keynesian models with heterogeneous agents. The models in this class can be equivalently represented as a representative-agent economy with wedges. These wedges are functions of households' consumption shares and relative wages, and they identify the key cross-sectional moments that govern the impact of households' heterogeneity on aggregate variables. We measure the wedges using U.S. household-level data and combine them with a representative-agent economy to perform counterfactuals. We find that deviations from perfect risk sharing implied by this class of models account for only 7% of output volatility on average but can have sizable output effects when nominal interest rates reach their lower bound.
 - title: "Sovereign Default Risk and Firm Heterogeneity"
   coauthors: "Christina Arellano, Yan Bai"
   book: "Accepted at the Journal of the European Economic Association"
@@ -31,3 +37,5 @@ works:
       text: "Paper"
     - url: "https://swap.stanford.edu/was/20220606221548/https:/lbocola.people.stanford.edu/sites/g/files/sbiybj3726/f/abb_slides.pdf"
       text: "Slides"
+  abstract: >
+    This article studies the macroeconomic implications of imperfect risk sharing implied by a class of New Keynesian models with heterogeneous agents. The models in this class can be equivalently represented as a representative-agent economy with wedges. These wedges are functions of households' consumption shares and relative wages, and they identify the key cross-sectional moments that govern the impact of households' heterogeneity on aggregate variables. We measure the wedges using U.S. household-level data and combine them with a representative-agent economy to perform counterfactuals. We find that deviations from perfect risk sharing implied by this class of models account for only 7% of output volatility on average but can have sizable output effects when nominal interest rates reach their lower bound.
