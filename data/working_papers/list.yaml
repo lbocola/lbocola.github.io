@@ -1,6 +1,6 @@
 works:
 - title: "Accounting for Credibility: Fiscal-Monetary Interactions and the Credibility of Central Bank Mandates"
-  coauthors: "Gaston Chaumont, Alessandro Davis, Rishabh Kirpalani"
+  coauthors: "Gaston Chaumont, Alessandro Dovis, Rishabh Kirpalani"
   book: ""
   links: 
     - url: "https://www.dropbox.com/scl/fi/402owooctiabbuqt1jgp0/AccountingMF_7.pdf?rlkey=kp3neulmmeekhdwcaje7osjlu&st=e22aiv95&dl=0"
@@ -10,7 +10,7 @@ works:
   abstract: >
     We develop a model for fiscal and monetary policy determination in the tradition of Sargent and Wallace (1981). Ex-ante, the government has incentives to commit to an inflation rate and delegate monetary policy to a central bank with an inflation targeting mandate. Ex-post, however, the government faces temptations to revoke the mandate to generate seigniorage revenues. The likelihood that the government will adhere to its commitment depends on shocks to fiscal fundamentals and the costs of reneging on the mandate. We interpret the latter as changes in institutions undertaken by governments. The economy endogenously transitions between a “fiscal-dominant” regime where the fiscal authority interferes with monetary policy to generate seigniorage revenues and inflation promises are not credible and a “monetary-dominant” regime where monetary policy adheres to its commitment. These two regimes sharply differ in their implications for the comovement of inflation and debt-to-GDP ratios. We use the model as a measurement device to interpret the fiscal and monetary history in Colombia, Chile, and the U.S.
 - title: "Monetary Policy without an Anchor"
-  coauthors: "Alessandro Davis, Kasper Jørgensen, Rishabh Kirpalani"
+  coauthors: "Alessandro Dovis, Kasper Jørgensen, Rishabh Kirpalani"
   book: "Revise and Resubmit at the Quarterly Journal of Economics"
   links: 
     - url: "https://www.dropbox.com/scl/fi/7104uxinebfa8qcz66psy/mp_anchor_v5.pdf?rlkey=utjvv1jstotqaq73ek1e1w8be&e=1&dl=0"
@@ -20,7 +20,7 @@ works:
   abstract: >
     Policymakers often cite the risk that inflation expectations might “de-anchor” as a key reason for responding forcefully to inflationary shocks. We develop a model to analyze this trade-off and to quantify the benefits of stable long-run inflation expectations. In our framework, households and firms are imperfectly informed about the central bank’s objective and learn from its policy choices. Recognizing this interaction, the central bank raises interest rates more aggressively after adverse supply shocks and accepts short-run output costs to secure more stable inflation expectations. The strength of this reputation channel depends on how sensitive long-run inflation expectations are to surprises in interest rates. Using high-frequency identification, we estimate these elasticities for emerging and advanced economies and find large negative values for Brazil. We fit our model to these findings and use it to quantify how reputation building motives affect monetary policy decisions, and the role of central bank's credibility in promoting macroeconomic stability.
 - title: "Bond Market Views of the Fed"
-  coauthors: "Alessandro Davis, Kasper Jørgensen, Rishabh Kirpalani"
+  coauthors: "Alessandro Dovis, Kasper Jørgensen, Rishabh Kirpalani"
   book: "Revise and Resubmit at the Journal of Political Economy"
   links:
     - url: "https://www.dropbox.com/scl/fi/g4webwws6xj5pmxn3xcxh/bond_views.pdf?rlkey=2e9f7dux4buqtyzzulsepbwrg&e=1&dl=0"
