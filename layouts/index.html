@@ -50,17 +50,11 @@
 {{ end }}
 {{ end }}
 
-{{ with .Site.Data.personal }}
+{{ with .GetPage "/sections/personal.md" }}
 <hr>
 <h2 id="personal">Personal</h2>
-{{ range . }}
-{{ range .works }}
-{{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
-{{ $scratch.Add "pubcnt" 1 }}   
+{{ .Content }}
 {{ end }}
-{{ end }}
-{{ end }}
-
 
 {{ .Content }}
 {{- end }}
