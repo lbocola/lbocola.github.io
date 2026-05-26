@@ -11,4 +11,7 @@
 {{ with .Site.Data.teaching }}
 <p class="contactinfo"><a href="{{ "#teaching" | relURL }}">Teaching</a></p>
 {{ end }}
+{{ with .Site.Data.personal }}
+<p class="contactinfo"><a href="{{ "#personal" | relURL }}">Personal</a></p>
+{{ end }}
 
