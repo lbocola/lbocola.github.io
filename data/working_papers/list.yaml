@@ -31,9 +31,9 @@ works:
     This paper uses high frequency data to detect shifts in financial markets' perception of the Federal Reserve stance on inflation. We construct daily revisions to expectations of future nominal interest rates and inflation that are priced into nominal and inflation-protected bonds, and find that the relation between these two variables---positive and stable for over twenty years---has weakened substantially over the 2020-2022 period. In the context of canonical monetary reaction functions considered in the literature, these results are indicative of a monetary authority that places less weight on inflation stabilization. We augment a standard New Keynesian model with regime shifts in the monetary policy rule, calibrate it to match our findings, and use it as a laboratory to understand the drivers of U.S. inflation post 2020. We find that the shift in the monetary policy stance accounts for half of the observed increase in inflation.   
 - title: "The Macroeconomics of Trade Credit"
   coauthors: "Gideon Bornstein"
-  book: "Revise and Resubmit at the American Economic Review"
+  book: "Resubmitted to the American Economic Review"
   links:
-    - url: "https://www.dropbox.com/scl/fi/m90buhpgfjbsptqfmk1ia/trade_credit_draft.pdf?rlkey=9jiqxdr74lmtc9xeeimdeas7j&e=1&dl=0"
+    - url: "https://www.dropbox.com/scl/fi/o7nnavfdc3y4pc10h6ehd/Macro_Trade_Credit_June_2026.pdf?rlkey=no2s7of9nm4342k6jxdsewp30&st=2dupjkb2&dl=0"
       text: "Paper"
     - url: "https://www.dropbox.com/scl/fi/7xjj2xnyhdqc3vksxtgvi/payments.pdf?rlkey=3vd4wq0fpolwdf4catv55s94m&dl=0"
       text: "Slides"
