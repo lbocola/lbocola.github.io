@@ -18,7 +18,6 @@
 <h2 id="workingpapers">Working Papers</h2>
 {{ range . }}
 {{ range .works }}
-
 {{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
 {{ $scratch.Add "pubcnt" 1 }}   
 {{ end }}
