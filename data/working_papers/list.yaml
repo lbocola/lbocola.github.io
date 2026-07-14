@@ -1,4 +1,14 @@
 works:
+- title: "Bank Market Power"
+  coauthors: "Gideon Bornstein, Cedomir Malgieri, Federico Puglisi"
+  book: ""
+  links: 
+    - url: "https://www.dropbox.com/scl/fi/402owooctiabbuqt1jgp0/AccountingMF_7.pdf?rlkey=kp3neulmmeekhdwcaje7osjlu&st=e22aiv95&dl=0"
+      text: "Paper"
+    - url: "https://www.dropbox.com/scl/fi/ezzjvp8nsi8iet3uachf4/Slides_mf_bu.pdf?rlkey=uzzq19rf25drhsu68ce4q5gar&st=0tyzz00y&dl=0"
+      text: "Slides"
+  abstract: >
+    Local loan markets are often highly concentrated, and small and medium-sized firms may have few alternatives when borrowing from banks. Do banks enjoy market power in lending, and what are its macroeconomic consequences? We propose a measurement strategy that uses credit-register data to quantify bank market power and develop a general equilibrium model to assess its aggregate effects. Our empirical approach decomposes loan interest rates into firm and bank fixed effects and interprets bank fixed effects as deviations from the law of one price. Using the Italian credit register, we find that bank fixed effects account for 15–20% of the variation in interest rates and are strongly correlated with local market shares. We then develop a general equilibrium model featuring oligopolistic banks subject to leverage constraints, firms with working capital requirements, and segmented bank–firm relationships. We show that the model matches key statistics about market concentration, bank-firm relationships, loan demand elasticities, and the dispersion of interest rates in our data. We use the model to quantify the macroeconomic effects of bank market power and to study how changes in capital requirements affect bank competition and interest rates.
 - title: "Accounting for Credibility: Fiscal-Monetary Interactions and the Credibility of Central Bank Mandates"
   coauthors: "Gaston Chaumont, Alessandro Dovis, Rishabh Kirpalani"
   book: ""
