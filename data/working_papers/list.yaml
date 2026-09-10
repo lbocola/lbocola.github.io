@@ -1,24 +1,14 @@
 works:
-- title: "Bank Market Power"
-  coauthors: "Gideon Bornstein, Cedomir Malgieri, Federico Puglisi"
-  book: ""
-  links: 
-    - url: "pdf/Bank_Market_Power.pdf"
+- title: "The Macroeconomics of Trade Credit"
+  coauthors: "Gideon Bornstein"
+  book: "Resubmitted to the American Economic Review"
+  links:
+    - url: "https://www.dropbox.com/scl/fi/o7nnavfdc3y4pc10h6ehd/Macro_Trade_Credit_June_2026.pdf?rlkey=no2s7of9nm4342k6jxdsewp30&st=2dupjkb2&dl=0"
       text: "Paper"
-    - url: "https://www.dropbox.com/scl/fi/6lf2edf3aahtj9chnw45s/slides_banks.pdf?rlkey=k1h1x36iimvfowp52i523v144&dl=0"
+    - url: "https://www.dropbox.com/scl/fi/7xjj2xnyhdqc3vksxtgvi/payments.pdf?rlkey=3vd4wq0fpolwdf4catv55s94m&dl=0"
       text: "Slides"
   abstract: >
-    Local loan markets are often highly concentrated, and small and medium-sized firms may have few alternatives when borrowing from banks. Do banks enjoy market power in lending, and what are its macroeconomic consequences? We propose a measurement strategy that uses credit-register data to quantify bank market power and develop a general equilibrium model to assess its aggregate effects. Our empirical approach decomposes loan interest rates into firm and bank fixed effects and interprets bank fixed effects as deviations from the law of one price. Using the Italian credit register, we find that bank fixed effects account for 15–20% of the variation in interest rates and are strongly correlated with local market shares. We then develop a general equilibrium model featuring oligopolistic banks subject to leverage constraints, firms with working capital requirements, and segmented bank–firm relationships. We show that the model matches key statistics about market concentration, bank-firm relationships, loan demand elasticities, and the dispersion of interest rates in our data. We use the model to quantify the macroeconomic effects of bank market power and to study how changes in capital requirements affect bank competition and interest rates.
-- title: "Accounting for Credibility: Fiscal-Monetary Interactions and the Credibility of Central Bank Mandates"
-  coauthors: "Gaston Chaumont, Alessandro Dovis, Rishabh Kirpalani"
-  book: ""
-  links: 
-    - url: "https://www.dropbox.com/scl/fi/g03bj6lsbmui6ax7b5727/AccountingMF_10.pdf?rlkey=wxjgli7rlru39yn0ssxs10h7m&dl=0"
-      text: "Paper"
-    - url: "https://www.dropbox.com/scl/fi/ezzjvp8nsi8iet3uachf4/Slides_mf_bu.pdf?rlkey=uzzq19rf25drhsu68ce4q5gar&st=0tyzz00y&dl=0"
-      text: "Slides"
-  abstract: >
-    We develop a model for fiscal and monetary policy determination in the tradition of Sargent and Wallace (1981). Ex-ante, the government has incentives to delegate monetary policy to a central bank with an inflation targeting mandate. Ex-post, however, the government faces temptations to revoke the mandate to generate seigniorage revenues. The likelihood that the government will adhere to its commitment depends on shocks to fiscal fundamentals and the costs of reneging on the mandate. The economy endogenously transitions between a "monetary-dominant" regime where monetary policy adheres to its commitment and a "fiscal-dominant" regime where the fiscal authority interferes with monetary policy. These two regimes sharply differ in their implications for the comovement of inflation and debt-to-GDP ratios. We use the model as a measurement device to interpret the fiscal and monetary history in Colombia, Chile, and the U.S.
+    In most countries, suppliers of intermediate goods and services are also the main providers of short-term financing to firms. This paper studies the macroeconomic implications of these financial links. In our model, trade credit is the outcome of a long-term contract between firms linked in the production process, and it is sustained in equilibrium by reputation forces as customers lose the relationship with their suppliers in case of a default. These financial links give rise to a credit multiplier: suppliers can enforce repayment of these IOUs, and they can discount these bills with banks to obtain liquidity. This process can either dampen or amplify the output effects of financial shocks, depending on the borrowing capacity of suppliers. Using Italian data, we find that the credit multiplier is sizable and show that trade credit substantially amplified the output costs of the Great Recession.
 - title: "Monetary Policy without an Anchor"
   coauthors: "Alessandro Dovis, Kasper Jørgensen, Rishabh Kirpalani"
   book: "Revise and Resubmit at the Quarterly Journal of Economics"
@@ -39,23 +29,23 @@ works:
       text: "Slides"
   abstract: >
     This paper uses high frequency data to detect shifts in financial markets' perception of the Federal Reserve stance on inflation. We construct daily revisions to expectations of future nominal interest rates and inflation that are priced into nominal and inflation-protected bonds, and find that the relation between these two variables---positive and stable for over twenty years---has weakened substantially over the 2020-2022 period. In the context of canonical monetary reaction functions considered in the literature, these results are indicative of a monetary authority that places less weight on inflation stabilization. We augment a standard New Keynesian model with regime shifts in the monetary policy rule, calibrate it to match our findings, and use it as a laboratory to understand the drivers of U.S. inflation post 2020. We find that the shift in the monetary policy stance accounts for half of the observed increase in inflation.   
-- title: "The Macroeconomics of Trade Credit"
-  coauthors: "Gideon Bornstein"
-  book: "Resubmitted to the American Economic Review"
-  links:
-    - url: "https://www.dropbox.com/scl/fi/o7nnavfdc3y4pc10h6ehd/Macro_Trade_Credit_June_2026.pdf?rlkey=no2s7of9nm4342k6jxdsewp30&st=2dupjkb2&dl=0"
+- title: "Accounting for Credibility: Fiscal-Monetary Interactions and the Credibility of Central Bank Mandates"
+  coauthors: "Gaston Chaumont, Alessandro Dovis, Rishabh Kirpalani"
+  book: ""
+  links: 
+    - url: "https://www.dropbox.com/scl/fi/g03bj6lsbmui6ax7b5727/AccountingMF_10.pdf?rlkey=wxjgli7rlru39yn0ssxs10h7m&dl=0"
       text: "Paper"
-    - url: "https://www.dropbox.com/scl/fi/7xjj2xnyhdqc3vksxtgvi/payments.pdf?rlkey=3vd4wq0fpolwdf4catv55s94m&dl=0"
+    - url: "https://www.dropbox.com/scl/fi/ezzjvp8nsi8iet3uachf4/Slides_mf_bu.pdf?rlkey=uzzq19rf25drhsu68ce4q5gar&st=0tyzz00y&dl=0"
       text: "Slides"
   abstract: >
-    In most countries, suppliers of intermediate goods and services are also the main providers of short-term financing to firms. This paper studies the macroeconomic implications of these financial links. In our model, trade credit is the outcome of a long-term contract between firms linked in the production process, and it is sustained in equilibrium by reputation forces as customers lose the relationship with their suppliers in case of a default. These financial links give rise to a credit multiplier: suppliers can enforce repayment of these IOUs, and they can discount these bills with banks to obtain liquidity. This process can either dampen or amplify the output effects of financial shocks, depending on the borrowing capacity of suppliers. Using Italian data, we find that the credit multiplier is sizable and show that trade credit substantially amplified the output costs of the Great Recession.
-- title: "Sovereign Default Risk and Firm Heterogeneity"
-  coauthors: "Christina Arellano, Yan Bai"
-  book: "Accepted at the Journal of the European Economic Association"
-  links:
-    - url: "https://www.dropbox.com/scl/fi/9g4v232ewdxa6wkl3y35g/sovereign_heterogeneity.pdf?rlkey=f42loq8uyr5i1ig6hk6fi6w75&e=1&dl=0"
+    We develop a model for fiscal and monetary policy determination in the tradition of Sargent and Wallace (1981). Ex-ante, the government has incentives to delegate monetary policy to a central bank with an inflation targeting mandate. Ex-post, however, the government faces temptations to revoke the mandate to generate seigniorage revenues. The likelihood that the government will adhere to its commitment depends on shocks to fiscal fundamentals and the costs of reneging on the mandate. The economy endogenously transitions between a "monetary-dominant" regime where monetary policy adheres to its commitment and a "fiscal-dominant" regime where the fiscal authority interferes with monetary policy. These two regimes sharply differ in their implications for the comovement of inflation and debt-to-GDP ratios. We use the model as a measurement device to interpret the fiscal and monetary history in Colombia, Chile, and the U.S.
+- title: "Bank Market Power"
+  coauthors: "Gideon Bornstein, Cedomir Malgieri, Federico Puglisi"
+  book: ""
+  links: 
+    - url: "pdf/Bank_Market_Power.pdf"
       text: "Paper"
-    - url: "https://swap.stanford.edu/was/20220606221548/https:/lbocola.people.stanford.edu/sites/g/files/sbiybj3726/f/abb_slides.pdf"
+    - url: "https://www.dropbox.com/scl/fi/6lf2edf3aahtj9chnw45s/slides_banks.pdf?rlkey=k1h1x36iimvfowp52i523v144&dl=0"
       text: "Slides"
   abstract: >
-    This paper measures the output costs of sovereign risk by combining a sovereign debt model with firm- and bank-level data. An increase in sovereign risk lowers the price of government debt and has an adverse impact on banks' balance sheets, disrupting their ability to finance firms. The resulting fall in credit supply impacts firms directly, as they need to borrow at higher interest rates, and indirectly through general equilibrium effects on the price of inputs and other goods. Importantly, firms are not equally affected by these developments: those that have greater financing needs and that borrow from banks that hold more government debt are mostly affected by the change in borrowing rates, while firms that do not borrow are only impacted indirectly. We show that these direct and indirect effects can be recovered using a firm-level regression, which we estimate using Italian data. We calibrate our model to match the measured firm-level elasticities and find that heightened sovereign risk was responsible for one-third of the observed output decline during the Italian debt crisis.
+    Local loan markets are often highly concentrated, and small and medium-sized firms may have few alternatives when borrowing from banks. Do banks enjoy market power in lending, and what are its macroeconomic consequences? We propose a measurement strategy that uses credit-register data to quantify bank market power and develop a general equilibrium model to assess its aggregate effects. Our empirical approach decomposes loan interest rates into firm and bank fixed effects and interprets bank fixed effects as deviations from the law of one price. Using the Italian credit register, we find that bank fixed effects account for 15–20% of the variation in interest rates and are strongly correlated with local market shares. We then develop a general equilibrium model featuring oligopolistic banks subject to leverage constraints, firms with working capital requirements, and segmented bank–firm relationships. We show that the model matches key statistics about market concentration, bank-firm relationships, loan demand elasticities, and the dispersion of interest rates in our data. We use the model to quantify the macroeconomic effects of bank market power and to study how changes in capital requirements affect bank competition and interest rates.

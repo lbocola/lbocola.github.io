@@ -1,4 +1,15 @@
 works:
+- title: "Sovereign Default Risk and Firm Heterogeneity"
+  pdflink: 
+  book: "Journal of the European Economic Association, Volume 24, Issue 5, October 2026"
+  coauthors: "Cristina Arellano, Yan Bai"
+  links:
+    - url: "pdf/sovereign_heterogeneityJEEA_final_October2025.pdf"
+      text: "Paper"
+    - url: "https://zenodo.org/records/17438399"
+      text: "Data and codes"
+  abstract: >
+    This paper measures the output costs of sovereign risk by combining a sovereign debt model with firm- and bank-level data. An increase in sovereign risk lowers the price of government debt and has an adverse impact on banks' balance sheets, disrupting their ability to finance firms. The resulting fall in credit supply impacts firms directly, as they need to borrow at higher interest rates, and indirectly through general equilibrium effects on the price of inputs and other goods. Importantly, firms are not equally affected by these developments: those that have greater financing needs and that borrow from banks that hold more government debt are mostly affected by the change in borrowing rates, while firms that do not borrow are only impacted indirectly. We show that these direct and indirect effects can be recovered using a firm-level regression, which we estimate using Italian data. We calibrate our model to match the measured firm-level elasticities and find that heightened sovereign risk was responsible for one-third of the observed output decline during the Italian debt crisis.
 - title: "Imperfect Risk Sharing and the Business Cycle"
   pdflink: 
   book: "Quarterly Journal of Economics, Volume 138, Issue 3, August 2023, pp. 1765-1815"
