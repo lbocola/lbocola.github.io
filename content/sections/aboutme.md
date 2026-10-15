@@ -12,5 +12,5 @@ I am a faculty research associate at the National Bureau of Economic Analysis (N
 
 
 
-[Curriculum Vitae](https://www.dropbox.com/scl/fi/xzug16vockh09of5geflr/CV.pdf?rlkey=r6wt03cgu2afkphl1e43jbhe8&e=1&dl=0)  [Research Statement](https://www.dropbox.com/scl/fi/e2vyd2fs4vfr9zsv5tm3b/Research-Statement.pdf?rlkey=7bucxis5ytpnhvdbkivdedo4e&dl=0)
+[Curriculum Vitae](https://www.dropbox.com/scl/fi/xzug16vockh09of5geflr/CV.pdf?rlkey=r6wt03cgu2afkphl1e43jbhe8&e=1&dl=0)             [Research Statement](https://www.dropbox.com/scl/fi/e2vyd2fs4vfr9zsv5tm3b/Research-Statement.pdf?rlkey=7bucxis5ytpnhvdbkivdedo4e&dl=0)
 
